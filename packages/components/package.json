@@ -1,5 +1,5 @@
 {
-  "name": "@formily/antdv-x3",
+  "name": "formily-antdv3",
   "version": "1.0.0-alpha.5",
   "license": "MIT",
   "main": "lib",
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/formilyjs/antdv-x3.git"
+    "url": "git+https://github.com/cca313/antdv-x3.git"
   },
   "bugs": {
-    "url": "https://github.com/formilyjs/antdv-x3/issues"
+    "url": "https://github.com/cca313/antdv-x3/issues"
   },
-  "homepage": "https://github.com/formilyjs/antdv-x3#readme",
+  "homepage": "https://github.com/cca313/antdv-x3#readme",
   "publishConfig": {
     "access": "public"
   },
